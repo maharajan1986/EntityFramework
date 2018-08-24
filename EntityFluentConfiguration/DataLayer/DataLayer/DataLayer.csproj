@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Address.cs" />
+    <Compile Include="Models\AddressFluentConfiguration.cs" />
+    <Compile Include="Models\FluentContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
