@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{8285CDC4-EBA8-4BB0-86B9-C16EC1C3820E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentConfigurationTest", "..\Test\FluentConfigurationTest\FluentConfigurationTest.csproj", "{1C0E5344-02A9-4AE3-822A-2B54161CF093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8285CDC4-EBA8-4BB0-86B9-C16EC1C3820E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8285CDC4-EBA8-4BB0-86B9-C16EC1C3820E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8285CDC4-EBA8-4BB0-86B9-C16EC1C3820E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E5344-02A9-4AE3-822A-2B54161CF093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E5344-02A9-4AE3-822A-2B54161CF093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E5344-02A9-4AE3-822A-2B54161CF093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E5344-02A9-4AE3-822A-2B54161CF093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
